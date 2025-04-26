@@ -1,3 +1,5 @@
+import numpy as np
+import matplotlib.pyplot as plt
 # excise 3.1 Pool names
 pools = ["V2", "B6", "B3", "B4", "VI", "B5B", "B8", "Bl", "D6", "B7", "B2", "D3", "D2", "Dl", "D5", "D6"]
 
@@ -24,3 +26,4 @@ if __name__ == '__main__':
     A_tA=matrixA.T @ matrixA#np.dot(np.transpose(matrixA), matrixA)
     A_tyresp=matrixA.T @ yresp
     k = np.linalg.solve(A_tA, A_tyresp)#get k : array([ 5.84834564, -5.96251375])
+    print(k)
