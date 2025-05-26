@@ -21,5 +21,7 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 
 ## Reference
 W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
+
 Luis Serrano. Singular Value Decomposition. https://www.youtube.com/watch?v=DG7YTlGnCEo
+
 R. H. Jongman, C. J. F. ter Braak and O. F. R. van Tongeren. 1987
