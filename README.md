@@ -12,9 +12,9 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 ### [Understanding CA,CCA...](note03.ipynb)
 
 
-### [From Unsuprevised Leaning to Deeplearning]
+### [From Unsuprevised Leaning to Deeplearning](note04.ipynb)
 
-### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra]
+### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](note05.ipynb)
 
 ### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note06.ipynb)
 
@@ -25,3 +25,5 @@ W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
 Luis Serrano. Singular Value Decomposition. https://www.youtube.com/watch?v=DG7YTlGnCEo
 
 R. H. Jongman, C. J. F. ter Braak and O. F. R. van Tongeren. 1987
+
+Wu Jun. 《数学之美》（< The beauty of Math >）2020.
