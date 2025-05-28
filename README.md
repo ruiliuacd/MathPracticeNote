@@ -11,7 +11,6 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 
 ### [Understanding CA,CCA...](note03.ipynb)
 
-
 ### [From Unsuprevised Leaning to Deeplearning](note04.ipynb)
 
 ### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](note05.ipynb)
