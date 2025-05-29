@@ -6,8 +6,9 @@ After working for many years, I decided to reorganize and learn some key mathema
 ### [Starting from Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology](note01.ipynb)
 From least-squares approach to linear ordination. Using PCA to obtained the same result and a view of PCA that is a multi-species extension of multiple (least-squares) regression.
 
+### [The Algebraic View of Column Vectors in the Above Ordination Method is Essentially a PCA Projection](note02.ipynb)
 
-### [Understanding PCA from SVD and Performing Dimension Reduction using truncated SVD](note02.ipynb)
+### [Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf)
 
 ### [Understanding CA,CCA...](note03.ipynb)
 
