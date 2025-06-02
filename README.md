@@ -14,9 +14,11 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 
 ### [From Unsuprevised Leaning to Deeplearning](note04.ipynb)
 
-### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](note05.ipynb)
+### [Introduce Transformer and Build Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
 
-### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note06.ipynb)
+### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](note06.ipynb)
+
+### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note07.ipynb)
 
 
 ## Reference
@@ -27,3 +29,7 @@ Luis Serrano. Singular Value Decomposition. https://www.youtube.com/watch?v=DG7Y
 R. H. Jongman, C. J. F. ter Braak and O. F. R. van Tongeren. 1987
 
 Wu Jun. 《数学之美》（< The beauty of Math >）2020.
+
+Vaswani, A., et al. "Attention is All You Need." Neural Information Processing Systems, 2017
+
+【《Attention is all you need》论文解读及Transformer架构详细介绍】 https://www.bilibili.com/video/BV1xoJwzDESD/?share_source=copy_web&vd_source=b0fabf2194dc0fc7bca3281db30ca201
