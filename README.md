@@ -6,7 +6,7 @@ After working for many years, I decided to reorganize and learn some key mathema
 ### [Starting from Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology](note01.ipynb)
 From least-squares approach to linear ordination. Using PCA to obtained the same result and a view of PCA that is a multi-species extension of multiple (least-squares) regression.
 
-### [The Algebraic View of Column Vectors in the Above Ordination Method is Essentially a PCA Projection](note02.ipynb)
+### [The Algebraic View of Column Vectors in the above Ordination Method is Essentially a PCA Projection](note02.ipynb)
 
 ### [Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf)
 
@@ -32,4 +32,4 @@ Wu Jun. 《数学之美》（< The beauty of Math >）2020.
 
 Vaswani, A., et al. "Attention is All You Need." Neural Information Processing Systems, 2017
 
-【《Attention is all you need》论文解读及Transformer架构详细介绍】 https://www.bilibili.com/video/BV1xoJwzDESD/?share_source=copy_web&vd_source=b0fabf2194dc0fc7bca3281db30ca201
+GitHub - huangyf2013320506/bilibili_repository: 放b站视频的一些文档和代码 @堂吉诃德拉曼查的英豪
