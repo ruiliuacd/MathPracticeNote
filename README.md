@@ -32,4 +32,4 @@ Wu Jun. 《数学之美》（< The beauty of Math >）2020.
 
 Vaswani, A., et al. "Attention is All You Need." Neural Information Processing Systems, 2017
 
-GitHub - huangyf2013320506/bilibili_repository: 放b站视频的一些文档和代码 @堂吉诃德拉曼查的英豪
+https://github.com/huangyf2013320506/bilibili_repository
