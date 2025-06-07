@@ -6,13 +6,13 @@ After working for many years, I decided to reorganize and learn some key mathema
 ### [Starting from Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology](note01.ipynb)
 From least-squares approach to linear ordination. Using PCA to obtained the same result and a view of PCA that is a multi-species extension of multiple (least-squares) regression.
 
-### [The Algebraic View of Column Vectors in the above Ordination Method is Essentially a PCA Projection](note02.ipynb)
+### [From The Algebraic View of the above Ordination Method — PCA Projection to CA,CCA,GWAS et al](note02.ipynb)
 
-### [Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf)
+##### ([Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf))
 
-### [Understanding CA,CCA...](note03.ipynb)
+### [Application and extension for GWAS and co-evolution](note03.ipynb)
 
-### [From Unsuprevised Leaning to Deeplearning](note04.ipynb)
+### [From the Algebra of Unsupervised Statistics to Deep Learning](note04.ipynb)
 
 ### [Introduce Transformer and Build Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
 
