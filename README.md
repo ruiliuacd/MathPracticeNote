@@ -1,9 +1,9 @@
 # MathPracticeNote
 After working for many years, I decided to reorganize and learn some key mathematical foundations and integrate actual concepts from such fields as quantum mechanics, computer graphics, and natural language processing to deepen one's understanding
 
-工作多年以后，重新整理学习一些关键数学基础，并将量子力学，计算机图形学，自然语言处理等领域的概念贯穿到其中，增进理解。
+(工作多年以后，重新整理学习一些关键数学基础，并将量子力学，计算机图形学，自然语言处理等领域的概念贯穿到其中，增进理解。)
 
-### [Starting from Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology](note01.ipynb)
+### [Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology: A Starting Point](note01.ipynb)
 From least-squares approach to linear ordination. Using PCA to obtained the same result and a view of PCA that is a multi-species extension of multiple (least-squares) regression.
 
 ### [From The Algebraic View of the above Ordination Method — PCA Projection to CA,CCA,GWAS et al](note02.ipynb)
