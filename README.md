@@ -10,9 +10,10 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 
 ##### ([Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf))
 
-### [Application and extension for GWAS and co-evolution](note03.ipynb)
+### [Application of Dimensionality Reduction Techniques and expansion in GWAS and co-evolution](note03.ipynb)
 
 ### [From the Algebra of Unsupervised Statistics to Deep Learning](note04.ipynb)
+拟合多项式的学习
 
 ### [Introduce Transformer and Build Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
 
@@ -20,6 +21,9 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 
 ### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note07.ipynb)
 
+### [PSMC及其改进与借鉴思路](psmcframe.ipynb)
+
+### [从G4等元件识别到结合变异数据的模式识别](deeplearningnetworkidentifyelements.ipynb)
 
 ## Reference
 W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
@@ -33,3 +37,5 @@ Wu Jun. 《数学之美》（< The beauty of Math >）2020.
 Vaswani, A., et al. "Attention is All You Need." Neural Information Processing Systems, 2017
 
 https://github.com/huangyf2013320506/bilibili_repository
+
+James Zou, et al. and Amalio Telenti. A primer on deep learning in genomics, nature genetics, 2019
