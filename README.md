@@ -1,19 +1,17 @@
 # MathPracticeNote
-After working for many years, I decided to reorganize and learn some key mathematical foundations and integrate actual concepts from such fields as quantum mechanics, computer graphics, and natural language processing to deepen one's understanding
-
-(工作多年以后，重新整理学习一些关键数学基础，并将量子力学，计算机图形学，自然语言处理等领域的概念贯穿到其中，增进理解。)
+After working for many years, I decided to reorganize and learn some key mathematical foundations and integrate actual concepts from such fields as quantum mechanics, computer graphics, and natural language processing to deepen one's understanding. (工作多年以后，重新整理学习一些关键数学基础，并将量子力学，计算机图形学，自然语言处理等领域的概念贯穿到其中，增进理解。)
 
 ### [Heuristic Dimensionality Reduction Techniques Inspired by Genomics and Ecology: A Starting Point](note01.ipynb)
 From least-squares approach to linear ordination. Using PCA to obtained the same result and a view of PCA that is a multi-species extension of multiple (least-squares) regression.
 
 ### [From The Algebraic View of the above Ordination Method — PCA Projection to CA,CCA,GWAS et al](note02.ipynb)
 
-##### ([Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf))
+##### ([Understanding the essential rationale of SVD and Performing Dimension Reduction using truncated SVD](docs/SVD%20learningnote.pdf)(理解SVD和截断SVD))
 
 ### [Application of Dimensionality Reduction Techniques and expansion in GWAS and co-evolution](note03.ipynb)
 
 ### [From the Algebra of Unsupervised Statistics to Deep Learning](note04.ipynb)
-拟合多项式的学习
+Practicing to fit polynomials using FNN(前馈神经网络)
 
 ### [Introduce Transformer and Build Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
 
