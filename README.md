@@ -21,7 +21,9 @@ Practicing to fit polynomials using FNN(前馈神经网络)
 
 ### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note07.ipynb)
 
-### [PSMC及其改进与借鉴思路](psmcframe.ipynb)
+### [The principle of PSMC and extended ideas](psmcframe.ipynb)
+
+### [D-statistic](Dstatistic.ipynb)
 
 ### [从G4等元件识别到结合变异数据的模式识别](deeplearningnetworkidentifyelements.ipynb)
 
