@@ -13,21 +13,23 @@ From least-squares approach to linear ordination. Using PCA to obtained the same
 ### [From the Algebra of Unsupervised Statistics to Deep Learning](note04.ipynb)
 Practicing to fit polynomials using FNN(前馈神经网络)
 
-### [Introduce Transformer and Build Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
+### [Transformer and Large Language Model applications with Private Knowledge Bases using RAG (LangChain)](note05.ipynb)
 
 ### [engineer architecture and algorithms ](note05_2.ipynb)
 
-### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](note06.ipynb)
+### [From decision Trees to random Forests:mechine learnning](ml.ipynb)
+
+### [sequence analysis in computational and statistical](note06.ipynb)
 
 ### [Brief Outlining Coalescent Theory Principles (and Its Applications)](note07.ipynb)
 
 ### [The principle of PSMC and extended ideas](psmcframe.ipynb)
 
-### [D-statistic](Dstatistic.ipynb)
+### [F-statistics and D-statistic](Dstatistic.ipynb)
 
 ### [从G4等元件识别到结合变异数据的模式识别](deeplearningnetworkidentifyelements.ipynb)
 
-### [From decision Trees to random Forests:mechine learnning](ml.ipynb)
+### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](visualization3D.ipynb)
 
 ## Reference
 W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
