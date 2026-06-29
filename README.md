@@ -32,6 +32,8 @@ Practicing to fit polynomials using FNN(前馈神经网络)
 ### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](visualization3D.ipynb)
 
 ## Reference
+R. Durbin. < Biological sequence analysis > 1998
+
 W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
 
 Luis Serrano. Singular Value Decomposition. https://www.youtube.com/watch?v=DG7YTlGnCEo
