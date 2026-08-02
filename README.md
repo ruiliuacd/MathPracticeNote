@@ -27,7 +27,7 @@ Practicing to fit polynomials using FNN(前馈神经网络)
 
 ### [F-statistics and D-statistic](Dstatistic.ipynb)
 
-### [从G4等元件识别到结合变异数据的模式识别](deeplearningnetworkidentifyelements.ipynb)
+### [从DNA元件识别到结合变异数据的模式识别](deeplearningnetworkidentifyelements.ipynb)
 
 ### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](visualization3D.ipynb)
 
