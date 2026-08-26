@@ -32,6 +32,7 @@ Practicing to fit polynomials using FNN(前馈神经网络)
 ### [A Fun 3D Game Demo Using OpenGL to Practice Linear Algebra](visualization3D.ipynb)
 
 ## Reference
+Paten, Eizenga, Rosen, ... ,Hickey, et al. Superbubbles, Ultrabubbles, and Cacti. Journal of Computational Biology,2011
 R. Durbin. < Biological sequence analysis > 1998
 
 W. Gilbert Strang. Linear Algebra. MIT OpenCourseWare
@@ -42,7 +43,7 @@ R. H. Jongman, C. J. F. ter Braak and O. F. R. van Tongeren. 1987
 
 Wu Jun. 《数学之美》（< The beauty of Math >）2020.
 
-Vaswani, A., et al. "Attention is All You Need." Neural Information Processing Systems, 2017
+Vaswani, A., et al. Attention is All You Need. Neural Information Processing Systems, 2017
 
 https://github.com/huangyf2013320506/bilibili_repository
 
